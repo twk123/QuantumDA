@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-Tad Kellogg research interests include virtual machine placement problem, database shard keys and quantum computing data analytic algorithms.
+Tad Kellogg's research interests include virtual machine placement problem, database shard keys and quantum computing data analytic algorithms.
