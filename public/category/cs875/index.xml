@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | QuantumDA</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>CS875 | QuantumDA</title>
+    <link>/category/cs875/</link>
+      <atom:link href="/category/cs875/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS875</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>/post/</link>
+      <title>CS875</title>
+      <link>/category/cs875/</link>
     </image>
     
     <item>
@@ -47,16 +47,6 @@ Finally, for more directed group decision making problems, quantitative processe
 &lt;p&gt;Saaty, R. (1987). The analytic hierarchy process—what it is and how it is used. &lt;i&gt;Mathematical Modelling&lt;/i&gt;, 9(3-5), 161–176. &lt;a href=&#34;http://doi.org/10.1016/0270-0255(87)90473-8&#34;&gt;http://doi.org/10.1016/0270-0255(87)90473-8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sun, B., Wei, M., Wu, W., &amp;amp; Jing, B. B. (2020). A novel group decision making method for airport operational risk management. &lt;i&gt;Mathematical Biosciences and Engineering : MBE&lt;/i&gt;, 17(3), 2402–2417. &lt;a href=&#34;http://doi.org/10.3934/mbe.2020130&#34;&gt;http://doi.org/10.3934/mbe.2020130&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Twin, A. (2020, March 6). &lt;i&gt;How the Delphi Method Works&lt;/i&gt;. Retrieved from &lt;a href=&#34;https://www.investopedia.com/terms/d/delphi-method.asp&#34;&gt;https://www.investopedia.com/terms/d/delphi-method.asp&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>/post/introduction/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/introduction/</guid>
-      <description>&lt;p&gt;Hello and welcome to this new blog. My name is Tad Kellogg, and I was born and raised in north Texas, but for the last decade plus I now live and work in the pacific northwest. Professionally, I am a full stack data scientist primarily investigating computational server performance time series data sets for Boeing, Inc.
-I plan to use this blog site to explore future innovations in the data analytics and quantum computing algorithms field. This blog site is produced as part of the requirements for the Colorado Technical University Futuring and Innovation course in computer science. I plan for the majority of the blog posts to summarize current research work by others and my self in the search for new quantum computing algorithms that advance the possibilities and capabilities of data analytics.&lt;/p&gt;
 </description>
     </item>
     

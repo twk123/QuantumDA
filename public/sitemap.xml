@@ -28,17 +28,37 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-04-24T20:00:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/cs875/</loc>
+    <lastmod>2020-04-24T20:00:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/emergent-technology-and-key-trend-for-education-in-2020/</loc>
+    <lastmod>2020-04-24T19:47:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/group-decision-making-methods/</loc>
+    <lastmod>2020-04-24T20:00:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-24T20:00:07-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/academic/</loc>
     <lastmod>2020-04-21T15:19:23-07:00</lastmod>
   </url>
   
   <url>
     <loc>/post/introduction/</loc>
-    <lastmod>2020-04-21T15:19:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-04-21T15:19:23-07:00</lastmod>
   </url>
   
@@ -160,10 +180,6 @@
   <url>
     <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
 </urlset>
