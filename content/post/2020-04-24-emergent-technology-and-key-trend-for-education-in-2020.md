@@ -19,8 +19,13 @@ projects: []
 ---
 The “Emerging Technologies & Practices and Influential Trends” document and mind map present an overview of the technologies and trends that will be shaping the practices and technologies used in the higher education community (2020 EDUCAUSE Horizon Report, 2020). This diagram and report show an interesting emergence of the use of Artificial Intelligence (AI)  technology in education related systems. The Educause information also presents the social trend of equity and fair practice for educational systems. This blog post will outline where AI is emerging and a driving force behind this emergence. The post will also present an example of a social trend that utilizes AI technology as the enabler with ethical treatment as the driving force.
   
-![EDUCAUSE Review is a registered trademark of EDUCAUSE](/post/2020-04-24-emergent-technology-and-key-trend-for-education-in-2020_files/HorizonR2020infographic3.jpg)
-EDUCAUSE Review is a registered trademark of EDUCAUSE.
+<p>
+<a href="https://er.educause.edu/-/media/files/library/2020/3/2020_horizon_report_infographic.pdf?la=en&hash=66854F48297FEB53724C25A93E7475355EE6D4E3" title="Redirect to Image Source">
+<img src="/post/2020-04-24-emergent-technology-and-key-trend-for-education-in-2020_files/HorizonR2020infographic3.jpg" alt="Infographic" />
+</a>
+</p>
+
+EDUCAUSE Review is a registered trademark of EDUCAUSE. 
 
 ##### AI/Machine Learning Technology
 
