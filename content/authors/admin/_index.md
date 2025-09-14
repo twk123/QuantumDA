@@ -4,7 +4,7 @@ authors:
 bio: My research interests include virtual machine placement problem, database shard keys and quantum computing data analytic algorithms.
 education:
   courses:
-  - course: Pending DCS in Computer Science
+  - course: Doctorate in Computer Science
     institution: Colorado Technical University
   - course: Graduate Certificate in Intelligent Systems
     institution: Columbia University

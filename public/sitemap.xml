@@ -3,217 +3,207 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://quantumda.netlify.app/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://quantumda.netlify.app/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://quantumda.netlify.app/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://quantumda.netlify.app/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://quantumda.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://quantumda.netlify.app/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quantumda.netlify.app/categories/</loc>
     <lastmod>2020-06-09T20:20:54-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/cs875/</loc>
+    <loc>https://quantumda.netlify.app/category/cs875/</loc>
     <lastmod>2020-06-09T20:20:54-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://quantumda.netlify.app/post/</loc>
     <lastmod>2020-06-09T20:20:54-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/socio-technical-plan-for-introduction-of-quantum-computing/</loc>
+    <loc>https://quantumda.netlify.app/post/socio-technical-plan-for-introduction-of-quantum-computing/</loc>
     <lastmod>2020-06-09T20:20:54-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/quantum-computer-types/</loc>
+    <loc>https://quantumda.netlify.app/post/quantum-computer-types/</loc>
     <lastmod>2020-06-02T16:52:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/exaptation/</loc>
+    <loc>https://quantumda.netlify.app/post/exaptation/</loc>
     <lastmod>2020-05-26T19:53:25-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/exxonmobile-forecasting/</loc>
+    <loc>https://quantumda.netlify.app/post/exxonmobile-forecasting/</loc>
     <lastmod>2020-05-24T19:51:29-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/prediction-of-mobile-home-devices/</loc>
+    <loc>https://quantumda.netlify.app/post/prediction-of-mobile-home-devices/</loc>
     <lastmod>2020-05-08T21:31:48-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/scenario-planning-versus-traditional-forecasting/</loc>
+    <loc>https://quantumda.netlify.app/post/scenario-planning-versus-traditional-forecasting/</loc>
     <lastmod>2020-05-08T17:25:16-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/serendipitous-discoveries/</loc>
+    <loc>https://quantumda.netlify.app/post/serendipitous-discoveries/</loc>
     <lastmod>2020-05-05T15:20:23-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/emergent-technology-and-key-trend-for-education-in-2020/</loc>
+    <loc>https://quantumda.netlify.app/post/emergent-technology-and-key-trend-for-education-in-2020/</loc>
     <lastmod>2020-04-24T19:47:08-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/group-decision-making-methods/</loc>
+    <loc>https://quantumda.netlify.app/post/group-decision-making-methods/</loc>
     <lastmod>2020-04-24T20:00:07-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/academic/</loc>
+    <loc>https://quantumda.netlify.app/tag/academic/</loc>
     <lastmod>2020-04-21T15:19:23-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/introduction/</loc>
+    <loc>https://quantumda.netlify.app/post/introduction/</loc>
     <lastmod>2020-04-21T15:19:23-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://quantumda.netlify.app/tags/</loc>
     <lastmod>2020-04-21T15:19:23-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://quantumda.netlify.app/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
+    <loc>https://quantumda.netlify.app/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
+    <loc>https://quantumda.netlify.app/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://quantumda.netlify.app/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://quantumda.netlify.app/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://quantumda.netlify.app/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/source-themes/</loc>
+    <loc>https://quantumda.netlify.app/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/tad-kellogg/</loc>
+    <loc>https://quantumda.netlify.app/author/tad-kellogg/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://quantumda.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://quantumda.netlify.app/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
+    <loc>https://quantumda.netlify.app/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/demo/</loc>
+    <loc>https://quantumda.netlify.app/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://quantumda.netlify.app/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://quantumda.netlify.app/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://quantumda.netlify.app/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://quantumda.netlify.app/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
+    <loc>https://quantumda.netlify.app/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-ford/</loc>
+    <loc>https://quantumda.netlify.app/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://quantumda.netlify.app/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>https://quantumda.netlify.app/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   

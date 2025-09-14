@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | QuantumDA</title>
-    <link>/tag/academic/</link>
-      <atom:link href="/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://quantumda.netlify.app/tag/academic/</link>
+      <atom:link href="https://quantumda.netlify.app/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://quantumda.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>/tag/academic/</link>
+      <link>https://quantumda.netlify.app/tag/academic/</link>
     </image>
     
     <item>
       <title>Introduction</title>
-      <link>/post/introduction/</link>
+      <link>https://quantumda.netlify.app/post/introduction/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/introduction/</guid>
+      <guid>https://quantumda.netlify.app/post/introduction/</guid>
       <description>&lt;p&gt;Hello and welcome to this new blog. My name is Tad Kellogg, and I was born and raised in north Texas, but for the last decade plus I now live and work in the pacific northwest. Professionally, I am a full stack data scientist primarily investigating computational server performance time series data sets for Boeing, Inc.
 I plan to use this blog site to explore future innovations in the data analytics and quantum computing algorithms field. This blog site is produced as part of the requirements for the Colorado Technical University Futuring and Innovation course in computer science. I plan for the majority of the blog posts to summarize current research work by others and my self in the search for new quantum computing algorithms that advance the possibilities and capabilities of data analytics.&lt;/p&gt;
 </description>
